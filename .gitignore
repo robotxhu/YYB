@@ -1,7 +1,10 @@
-#window
-History/
-Project Logs for YYB_Project1/
-__Previews/
-*.zip
-*.Zip
-*.htm
+#历史记录 
+History
+#预览文件
+__Previews
+#project logs
+Project Logs for YYB_Project1
+#project outputs
+Project Outputs for YYB_Project1
+
+
